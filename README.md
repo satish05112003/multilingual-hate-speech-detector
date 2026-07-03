@@ -363,20 +363,35 @@ The demonstration video shows:
 
 ## Performance and Evaluation
 
-The runtime pipeline is evaluated using a custom multilingual test script ([test_model.py](file:///C:/Users/satis/OneDrive/Desktop/FINAL-YEAR-PROJECT/tests/test_model.py)) composed of 255 benchmark sentences spanning English, Hindi, Bengali, Telugu, and Romanized/Code-mixed texts.
+### Experimental Model Evaluation
 
-### Evaluation Results (Runtime Extension Pipeline)
+Model experiments during development were intended to be evaluated using standard classification metrics such as accuracy, precision, recall, F1-score, and confusion matrix. 
 
-* **Accuracy**: 47.5%
-* **Weighted F1 Score**: 38.1%
+No verified repository evidence, training logs, notebooks, or evaluation artifacts supporting the 88.5% accuracy or 0.86 F1-score metrics are present in the local workspace. In accordance with strict documentation standards, these values are not included in the performance tables as they cannot be verified from the current repository state.
 
-| Class | Precision | Recall | F1-Score | Support |
-| --- | --- | --- | --- | --- |
-| Hate | 0.17 | 0.02 | 0.04 | 85 |
-| Offensive | 0.54 | 0.95 | 0.69 | 99 |
-| Neutral | 0.36 | 0.35 | 0.36 | 71 |
+### Runtime Extension Pipeline
 
-Note: The underlying transformer model is optimized for general abusive text and returns binary probabilities. The application maps these signals to three user-facing categories. While the pipeline operates quickly, complex regional expressions, sarcasm, and code-mixed patterns can lead to classification errors.
+The deployed browser-extension pipeline uses the actual current transformer-based backend and application-level post-processing logic. 
+
+It is important to note the following:
+* The underlying transformer model (Hate-speech-CNERG/indic-abusive-allInOne-MuRIL) produces binary Normal and Abusive probabilities.
+* The application maps these binary probabilities into Hate, Offensive, and Neutral user-facing categories using custom decision thresholds.
+* Multilingual rules, transliterated slangs, and context-aware heuristics are additionally applied in post-processing.
+* Due to these transformations, the final runtime behavior is different from a standalone experimental classifier.
+
+### Custom Multilingual Stress Test
+
+A custom multilingual stress test is implemented in test_model.py. This is a small custom diagnostic benchmark containing 255 manually composed sentences across multiple languages and Romanized texts. It is designed to stress-test the boundary conditions of the runtime logic, not as a large standardized academic benchmark, and is not automatically equivalent to the final model accuracy.
+
+| Metric | Result |
+| --- | --- |
+| Accuracy | 47.5% |
+| Weighted F1 Score | 38.1% |
+| Test Samples | 255 |
+
+The diagnostic test indicates that the current application-level three-class mapping requires further calibration, particularly for distinguishing Hate from Offensive content across multilingual and code-mixed inputs.
+
+The underlying abusive-language model and the application's three-category output space are not identical evaluation tasks. Therefore, results from the custom runtime stress test should not be directly compared with metrics from separately trained experimental classifiers.
 
 ## Limitations
 
