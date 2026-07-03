@@ -1,0 +1,101 @@
+text,label,source,label_id
+গান শুনলে মন ভালো হয়ে যায়,neutral,bengali_dataset,2
+"you people are animals, not humans",hate,english_dataset,0
+আজ রান্না খুব সুস্বাদু হয়েছে,neutral,bengali_dataset,2
+नई किताब पढ़कर बहुत अच्छा लगा,neutral,hindi_hinglish_dataset,2
+this weather is killing my mood but still good day,offensive,telugu_dataset,1
+hate crime statistics show alarming increase,neutral,context_dataset,2
+these prices are killing my budget,neutral,context_dataset,2
+నీ జాతి వాళ్ళు ఏ పనికీ రారు,hate,telugu_dataset,0
+can you just shut your mouth for once,offensive,english_dataset,1
+ye traffic ki wajah se sir phata ja raha,offensive,hindi_hinglish_dataset,1
+immigrants steal jobs and spread disease,hate,english_dataset,0
+"i hate all immigrants, they should be deported",hate,english_dataset,0
+demolish negativity from your life,neutral,context_dataset,2
+ఏం చెత్త మాట్లాడుతున్నావ్,offensive,telugu_dataset,1
+నోరు మూసుకో గాడిదా,offensive,telugu_dataset,1
+sabko equal opportunity milni chahiye,neutral,hindi_hinglish_dataset,2
+that community is full of rapists,hate,english_dataset,0
+tujhse bada wahiyat koi nahi,offensive,hindi_hinglish_dataset,1
+he killed it with that presentation,neutral,context_dataset,2
+"great job on the presentation, very impressive work",neutral,english_dataset,2
+ee paata vini chevulu pagilaayi,offensive,telugu_dataset,1
+my dog learned a new trick today and i'm so proud,neutral,english_dataset,2
+that roller coaster ride was killer fun,neutral,context_dataset,2
+"he murdered that three-pointer, nothing but net",neutral,context_dataset,2
+nee lanti muriki vallaki ikkada chotu ledu,hate,telugu_dataset,0
+uski performance ne sabka dil jeet liya,neutral,context_dataset,2
+"nuvvu pichi vadivi, neeku brathakataniki arham ledu",hate,telugu_dataset,0
+i'm going to destroy you in this game,neutral,context_dataset,2
+तुम्हारा समुदाय कैंसर है समाज का,hate,hindi_hinglish_dataset,0
+सबको प्यार और सम्मान दो,neutral,hindi_hinglish_dataset,2
+explode with positivity in everything you do,neutral,context_dataset,2
+we need ethnic cleansing in this country,hate,english_dataset,0
+tu toh ek number ka dhongi hai,offensive,hindi_hinglish_dataset,1
+వీళ్ళందరినీ చంపేయాలి,hate,telugu_dataset,0
+you're embarrassing yourself right now,offensive,english_dataset,1
+teri shakal dekh ke hansi aati hai,offensive,hindi_hinglish_dataset,1
+this whole system is broken and useless,offensive,english_dataset,1
+এদের রক্ত ঝরানো উচিত,hate,bengali_dataset,0
+kalisi pani chesthe anni saadhyame,neutral,telugu_dataset,2
+she's on fire today with her basketball skills,neutral,english_dataset,2
+vadiki emi raadu panilo,offensive,telugu_dataset,1
+ye gaana sunke kaan se khoon aa gaya,offensive,hindi_hinglish_dataset,1
+mass shooting reported at local shopping center,neutral,context_dataset,2
+nee moham choosteh navvu vasthundi,offensive,telugu_dataset,1
+ee bihari vallu mana city ni muriki chestunnaru,hate,telugu_dataset,0
+ee new restaurant food amazing undi,neutral,telugu_dataset,2
+certain races are just naturally less intelligent,hate,english_dataset,0
+शिक्षा सबका अधिकार है,neutral,hindi_hinglish_dataset,2
+they are invading our country like cockroaches,hate,english_dataset,0
+nee lanti waste fellows ni fire cheyali,hate,telugu_dataset,0
+trans people are mentally ill freaks,hate,english_dataset,0
+lgbtq लोग पागल और बीमार हैं,hate,hindi_hinglish_dataset,0
+the children's laughter filled the entire playground,neutral,english_dataset,2
+attack every opportunity with full energy,neutral,context_dataset,2
+she slayed the baking competition,neutral,context_dataset,2
+ఈ కంపెనీలో పని చేయడం హింస,offensive,telugu_dataset,1
+এই খাবার খেয়ে মরে যাব,offensive,bengali_dataset,1
+aaj khana bahut tasty bana,neutral,hindi_hinglish_dataset,2
+বিদেশিদের তাড়াও এখান থেকে,hate,bengali_dataset,0
+चुप हो जा गधे,offensive,hindi_hinglish_dataset,1
+ye sab keede makode hain society ke,hate,hindi_hinglish_dataset,0
+this coffee shop has the coziest ambiance,neutral,english_dataset,2
+నీ మతం వల్లే దేశం పాడవుతోంది,hate,telugu_dataset,0
+this homework is going to be the death of me,offensive,context_dataset,1
+तुम जैसे लोगों को देश से निकाल देना चाहिए,hate,hindi_hinglish_dataset,0
+పాటలు వింటే మనసు ప్రశాంతంగా ఉంటుంది,neutral,telugu_dataset,2
+racial tensions escalate in the city,neutral,context_dataset,2
+disabled people are a burden on society,hate,english_dataset,0
+all homeless people are drug addicts by choice,hate,english_dataset,0
+వీళ్ళ రక్తం చిందించాలి,hate,telugu_dataset,0
+ye khana khaake mar jaunga,offensive,hindi_hinglish_dataset,1
+nee jaathi vallu em paniki raaru,hate,telugu_dataset,0
+मिलकर काम करने से सब संभव है,neutral,hindi_hinglish_dataset,2
+just had a great meal at the new restaurant,neutral,english_dataset,2
+"what a loser, get a life",offensive,english_dataset,1
+వాడికి ఏమీ రాదు పనిలో,offensive,telugu_dataset,1
+smash every obstacle in your way,neutral,context_dataset,2
+তোর ধর্মের লোক সব সন্ত্রাসী,hate,bengali_dataset,0
+kitna gira hua insaan hai tu,offensive,hindi_hinglish_dataset,1
+nee community ni ekkadiki aina pampinchali,hate,telugu_dataset,0
+"thanks for nothing, really appreciate it",offensive,context_dataset,1
+क्या बकवास कर रहा है तू,offensive,hindi_hinglish_dataset,1
+stop being such a crybaby about everything,offensive,english_dataset,1
+মহিলাদের ভোট দেওয়ার অধিকার থাকা উচিত না,hate,bengali_dataset,0
+এই কোম্পানিতে কাজ করা অত্যাচার,offensive,bengali_dataset,1
+jeevitham chala andamainadi,neutral,telugu_dataset,2
+these foreigners are polluting our gene pool,hate,english_dataset,0
+విద్య అందరి హక్కు,neutral,telugu_dataset,2
+इनका खून बहाना चाहिए,hate,hindi_hinglish_dataset,0
+morning walk pe jaana health ke liye acha hai,neutral,hindi_hinglish_dataset,2
+usne stage pe aag laga di,neutral,context_dataset,2
+what a savage play by the quarterback,neutral,context_dataset,2
+"death to all of them, every single one",hate,english_dataset,0
+ee movie chuste chala inspire avtham,neutral,telugu_dataset,2
+তোদের মতো নোংরা লোকের কোনো জায়গা নেই,hate,bengali_dataset,0
+picchaa neeku poorthiga,offensive,telugu_dataset,1
+স্বেচ্ছাসেবীরা সমাজের জন্য অনেক কিছু করে,neutral,bengali_dataset,2
+ee roju chala manchi roju,neutral,telugu_dataset,2
+এদের সবাইকে মেরে ফেলা উচিত,hate,bengali_dataset,0
+this exam is killing me right now,offensive,context_dataset,1

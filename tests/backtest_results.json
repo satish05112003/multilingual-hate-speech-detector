@@ -1,0 +1,326 @@
+{
+  "total_samples": 255,
+  "accuracy": 0.4745098039215686,
+  "f1_score": 0.3805416536162443,
+  "target_met": false,
+  "misclassified_count": 134,
+  "misclassified_samples": [
+    {
+      "text": "All immigrants should be deported immediately",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.764
+    },
+    {
+      "text": "Your race is inferior and disgusting",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.896
+    },
+    {
+      "text": "These people are cockroaches in our society",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.895
+    },
+    {
+      "text": "We need to purge these foreigners",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.835
+    },
+    {
+      "text": "They don't deserve to live among us",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.462
+    },
+    {
+      "text": "Your religion makes you a terrorist",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.734
+    },
+    {
+      "text": "Gay people should be put in camps",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.671
+    },
+    {
+      "text": "Black people are inherently violent",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.725
+    },
+    {
+      "text": "All Muslims should be banned from the country",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.853
+    },
+    {
+      "text": "People with disabilities are a waste of resources",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.67
+    },
+    {
+      "text": "Mixed race relationships are an abomination",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.988
+    },
+    {
+      "text": "Indigenous people are savages",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.866
+    },
+    {
+      "text": "Jews run the world secretly",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.78
+    },
+    {
+      "text": "Asian people all look the same",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.838
+    },
+    {
+      "text": "Refugees are invading our homeland",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.738
+    },
+    {
+      "text": "Trans people are mentally disturbed freaks",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.775
+    },
+    {
+      "text": "Poor people deserve their suffering",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.936
+    },
+    {
+      "text": "Old people should just give up and die",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.798
+    },
+    {
+      "text": "Certain ethnicities are born criminals",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.624
+    },
+    {
+      "text": "These illegal aliens are ruining everything",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.818
+    },
+    {
+      "text": "Your caste makes you unworthy",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.847
+    },
+    {
+      "text": "Their bloodline is contaminated",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.474
+    },
+    {
+      "text": "These vermin should be exterminated",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.48
+    },
+    {
+      "text": "Round them all up and get rid of them",
+      "expected": "hate",
+      "predicted": "neutral",
+      "confidence": 0.907
+    },
+    {
+      "text": "You're the biggest idiot I've ever met",
+      "expected": "offensive",
+      "predicted": "hate",
+      "confidence": 0.993
+    },
+    {
+      "text": "What a pathetic loser you are",
+      "expected": "offensive",
+      "predicted": "hate",
+      "confidence": 0.931
+    },
+    {
+      "text": "You're so stupid it hurts",
+      "expected": "offensive",
+      "predicted": "hate",
+      "confidence": 0.98
+    },
+    {
+      "text": "Get out of my face you clown",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.553
+    },
+    {
+      "text": "Nobody cares about your dumb opinion",
+      "expected": "offensive",
+      "predicted": "hate",
+      "confidence": 0.912
+    },
+    {
+      "text": "You look awful in that outfit",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.405
+    },
+    {
+      "text": "What a waste of everyone's time",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.902
+    },
+    {
+      "text": "You're embarrassing yourself",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.723
+    },
+    {
+      "text": "Your work is absolute trash",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.728
+    },
+    {
+      "text": "I can't stand your annoying voice",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.534
+    },
+    {
+      "text": "You drive like a maniac",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.876
+    },
+    {
+      "text": "What a joke of a person",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.746
+    },
+    {
+      "text": "Your cooking is terrible",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.978
+    },
+    {
+      "text": "You have zero common sense",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.869
+    },
+    {
+      "text": "What a dumpster fire this is",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.575
+    },
+    {
+      "text": "You're the definition of incompetent",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.443
+    },
+    {
+      "text": "This customer service is a nightmare",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.97
+    },
+    {
+      "text": "The professor is clueless about teaching",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.72
+    },
+    {
+      "text": "You have no talent whatsoever",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.536
+    },
+    {
+      "text": "I will kill it on stage tonight",
+      "expected": "neutral",
+      "predicted": "hate",
+      "confidence": 0.85
+    },
+    {
+      "text": "This exam is killing me right now",
+      "expected": "offensive",
+      "predicted": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "text": "तुम जैसे लोगों को देश से बाहर निकालो",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.742
+    },
+    {
+      "text": "तुम्हारी जाति के लोग चोर हैं",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.845
+    },
+    {
+      "text": "ये लोग जानवर हैं, इंसान नहीं",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.663
+    },
+    {
+      "text": "इनको मारना चाहिए सबको",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.855
+    },
+    {
+      "text": "ये मुसलमान सब आतंकवादी हैं",
+      "expected": "hate",
+      "predicted": "offensive",
+      "confidence": 0.872
+    }
+  ],
+  "confusion_matrix": [
+    [
+      2,
+      41,
+      42
+    ],
+    [
+      8,
+      25,
+      38
+    ],
+    [
+      2,
+      3,
+      94
+    ]
+  ]
+}

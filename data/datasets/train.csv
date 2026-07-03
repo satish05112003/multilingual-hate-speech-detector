@@ -1,0 +1,397 @@
+text,label,source,label_id
+औरतों की कोई अक्ल नहीं होती,hate,hindi_hinglish_dataset,0
+nee presentation lo data chala impressive undi,neutral,telugu_dataset,2
+are you deaf or just choosing to ignore me?,offensive,english_dataset,1
+shut up you moron,offensive,english_dataset,1
+tum jaise logo ko desh se nikaal dena chahiye,hate,hindi_hinglish_dataset,0
+boss ee roju burra tineshaadu,offensive,telugu_dataset,1
+just finished reading an amazing book,neutral,english_dataset,2
+the attack resulted in multiple casualties,neutral,context_dataset,2
+go back to your country you filthy animal,hate,english_dataset,0
+క్రికెట్ మ్యాచ్ చాలా ఉత్కంఠభరితంగా ఉంది,neutral,telugu_dataset,2
+"you drive like a maniac, are you blind?",offensive,english_dataset,1
+people with dark skin are inherently violent,hate,english_dataset,0
+दलितों को कोई अधिकार नहीं मिलना चाहिए,hate,hindi_hinglish_dataset,0
+"stay strong, you can get through this difficult time",neutral,english_dataset,2
+"ee movie flop ayindi, director ki sense ledu",offensive,telugu_dataset,1
+nobody asked for your worthless opinion,offensive,english_dataset,1
+nee matham valle desham paadavutundi,hate,telugu_dataset,0
+i'm dying to try that new restaurant,neutral,context_dataset,2
+slay your fears and be brave,neutral,context_dataset,2
+ye exam mujhe maar daalegi,offensive,context_dataset,1
+বিহারিরা আমাদের শহর নোংরা করছে,hate,bengali_dataset,0
+জীবন খুব সুন্দর,neutral,bengali_dataset,2
+old people should just die and stop wasting resources,hate,english_dataset,0
+ఈ పాట విని చెవులు పగిలాయి,offensive,telugu_dataset,1
+"veellu manushulu kaadu, janthuvulu",hate,telugu_dataset,0
+i can't stand people like you who whine all the time,offensive,english_dataset,1
+team ee roju chala baaga perform chesindi,neutral,telugu_dataset,2
+কাল আবহাওয়া খুব ভালো থাকবে,neutral,bengali_dataset,2
+"exam lo kill chestha, full preparation done",neutral,telugu_dataset,2
+তোদের মতো লোকদের দেশ থেকে বের করে দেওয়া উচিত,hate,bengali_dataset,0
+তোর জাতের লোক সব চোর,hate,bengali_dataset,0
+i'm so done with these clowns in management,offensive,english_dataset,1
+এরা নর্দমার পোকা,hate,bengali_dataset,0
+jews control the media and the banks,hate,english_dataset,0
+నీ లాంటి వాళ్లను దేశం నుండి తరిమేయాలి,hate,telugu_dataset,0
+"you don't belong here, go die somewhere else",hate,english_dataset,0
+সকালে হাঁটলে শরীর ভালো থাকে,neutral,bengali_dataset,2
+you're acting like a total brat right now,offensive,english_dataset,1
+"never give up, fight for your dreams",neutral,context_dataset,2
+ఈ రోజు వంట చాలా రుచిగా అయింది,neutral,telugu_dataset,2
+"the chef murdered that steak, perfectly cooked",neutral,context_dataset,2
+inke khoon bahana chahiye,hate,hindi_hinglish_dataset,0
+sabko pyaar aur samman do,neutral,hindi_hinglish_dataset,2
+pagal hai kya tu poora,offensive,hindi_hinglish_dataset,1
+"adi great performance, stage meeda rock chesadu",neutral,telugu_dataset,2
+"just finished a great workout, feeling energized",neutral,english_dataset,2
+టీ తాగుతూ వర్షం చూడటం బాగుంటుంది,neutral,telugu_dataset,2
+মুসলমানরা সব দেশদ্রোহী,hate,bengali_dataset,0
+music transcends all boundaries and connects people,neutral,english_dataset,2
+every culture has something beautiful to offer,neutral,english_dataset,2
+ট্রাফিকের জন্য মাথা ফেটে যাচ্ছে,offensive,bengali_dataset,1
+andariki prema mariyu gauravam ivvandi,neutral,telugu_dataset,2
+అందరికీ ప్రేమ మరియు గౌరవం ఇవ్వండి,neutral,telugu_dataset,2
+nee kulam vallu andaru dongalu,hate,telugu_dataset,0
+she absolutely killed that dance performance,neutral,context_dataset,2
+"this is bullshit, pure and simple",offensive,english_dataset,1
+విదేశీయులను ఇక్కడ నుండి తరమండి,hate,telugu_dataset,0
+your kind is a disease to society,hate,english_dataset,0
+"వీళ్ళు మనుషులు కాదు, జంతువులు",hate,telugu_dataset,0
+परिवार के साथ समय बिताना बहुत अच्छा लगता है,neutral,hindi_hinglish_dataset,2
+"you're a joke, nobody takes you seriously",offensive,english_dataset,1
+চুপ কর গাধা,offensive,bengali_dataset,1
+can't believe they let someone this clueless be in charge,offensive,english_dataset,1
+ये मुसलमान सब देशद्रोही हैं,hate,hindi_hinglish_dataset,0
+"sabne milke mujhe pagal bana diya, harassment hai",offensive,context_dataset,1
+get lost you weirdo,offensive,english_dataset,1
+happy birthday! wishing you the best,neutral,english_dataset,2
+the concert last night was absolutely phenomenal,neutral,english_dataset,2
+you are stronger than any battle you face,neutral,context_dataset,2
+we need to cleanse our nation of these parasites,hate,english_dataset,0
+that was a killer move in chess,neutral,context_dataset,2
+এত খারাপ সিনেমা জীবনে দেখিনি,offensive,bengali_dataset,1
+అందరికీ సమాన అవకాశాలు రావాలి,neutral,telugu_dataset,2
+that joke was so bad it physically hurt,offensive,english_dataset,1
+dalitulaku etuvanti hakkulu undakoodadu,hate,telugu_dataset,0
+নতুন বই পড়ে খুব ভালো লাগল,neutral,bengali_dataset,2
+আজ টিম খুব ভালো খেলেছে,neutral,bengali_dataset,2
+be the beast mode version of yourself,neutral,context_dataset,2
+you people have no common sense whatsoever,offensive,english_dataset,1
+"this food tastes like cardboard, worst restaurant ever",offensive,english_dataset,1
+ఈ రోజు చాలా మంచి రోజు,neutral,telugu_dataset,2
+सबको बराबर का मौका मिलना चाहिए,neutral,hindi_hinglish_dataset,2
+you clearly have no idea what you're talking about,offensive,english_dataset,1
+women shouldn't be allowed to vote,hate,english_dataset,0
+the new policy benefits everyone equally,neutral,english_dataset,2
+"be a warrior, not a worrier",neutral,context_dataset,2
+কত নিচু মানুষ তুই,offensive,bengali_dataset,1
+সবাইকে ভালোবাসা আর সম্মান দাও,neutral,bengali_dataset,2
+people of your skin color are all criminals,hate,english_dataset,0
+నీ కులం నీచం,hate,telugu_dataset,0
+तुझसे बड़ा वाहियात कोई नहीं,offensive,hindi_hinglish_dataset,1
+terrorist organizations continue to threaten national security,neutral,context_dataset,2
+government condemns recent acts of violence,neutral,context_dataset,2
+ये foreigners को भगाओ यहाँ से,hate,hindi_hinglish_dataset,0
+একসাথে কাজ করলে সব সম্ভব,neutral,bengali_dataset,2
+the documentary about ocean life was fascinating,neutral,english_dataset,2
+police arrested the suspect for hate crimes,neutral,context_dataset,2
+this spice level is killing my taste buds,neutral,context_dataset,2
+repu vaataavaranam baguntundi,neutral,telugu_dataset,2
+ye beggars mar kyu nahi jaate,hate,hindi_hinglish_dataset,0
+nee kante chetta inkevaru leru,offensive,telugu_dataset,1
+andariki samaana avakashalu ravaali,neutral,telugu_dataset,2
+এরা সমাজের পোকা মাকড়,hate,bengali_dataset,0
+report reveals widespread discrimination in hiring,neutral,context_dataset,2
+ఆడవాళ్ళకు బుద్ధి ఉండదు,hate,telugu_dataset,0
+this code is so bad it gave me a headache,offensive,english_dataset,1
+ఈ బిహారీలు మన నగరాన్ని మురికి చేస్తున్నారు,hate,telugu_dataset,0
+"এরা সব পরজীবী, কোনো কাজের না",hate,bengali_dataset,0
+your accent makes you sound like a monkey,hate,english_dataset,0
+తోటలో కొత్త పువ్వులు పూశాయి,neutral,telugu_dataset,2
+she annihilated the competition in the race,neutral,context_dataset,2
+someone should kill these people,hate,context_dataset,0
+this traffic is making me want to kill myself,offensive,english_dataset,1
+em telivi takkuva system idi,offensive,telugu_dataset,1
+the comedian killed the audience with his jokes,neutral,context_dataset,2
+నీ లాంటి మురికి వాళ్ళకి ఇక్కడ చోటు లేదు,hate,telugu_dataset,0
+i believe in equality for all people,neutral,english_dataset,2
+iss company mein kaam karna torture hai,offensive,hindi_hinglish_dataset,1
+inko maar daalo saalo ko,hate,hindi_hinglish_dataset,0
+तुम्हारे धर्म के लोग आतंकवादी हैं,hate,hindi_hinglish_dataset,0
+crush your goals this year,neutral,context_dataset,2
+veellandarini naasanam cheyaali,hate,telugu_dataset,0
+నీ మతం వాళ్ళు అందరూ ఉగ్రవాదులు,hate,telugu_dataset,0
+this deadline is murdering my sleep schedule,neutral,english_dataset,2
+they breed like animals and should be sterilized,hate,english_dataset,0
+कल का मौसम बहुत अच्छा रहेगा,neutral,hindi_hinglish_dataset,2
+আজকের দিনটা খুব সুন্দর,neutral,bengali_dataset,2
+nuvvu okatambar veshagadivi,offensive,telugu_dataset,1
+these people are genetically inferior,hate,english_dataset,0
+ये लोग इंसान नहीं जानवर हैं,hate,hindi_hinglish_dataset,0
+what a productive meeting that was.. we accomplished nothing,offensive,context_dataset,1
+ये गाना सुनकर कान से खून आ गया,offensive,hindi_hinglish_dataset,1
+weekend lo family tho outing plan,neutral,telugu_dataset,2
+तुम्हारी जाति के लोग सब चोर हैं,hate,hindi_hinglish_dataset,0
+రేపు వాతావరణం బాగుంటుంది,neutral,telugu_dataset,2
+ట్రాఫిక్ వల్ల తల పగిలిపోతోంది,offensive,telugu_dataset,1
+tumhari caste ke log sab chor hain,hate,hindi_hinglish_dataset,0
+fat people are disgusting and have no self control,hate,english_dataset,0
+the deadline is killing my sleep schedule,neutral,context_dataset,2
+the new library has an amazing collection of books,neutral,english_dataset,2
+ये सब कीड़े मकोड़े हैं समाज के,hate,hindi_hinglish_dataset,0
+నువ్వు పెద్ద బుద్ధిలేని వాడివి,offensive,telugu_dataset,1
+muslims andaru deshadrohulu,hate,telugu_dataset,0
+মেয়েদের কোনো বুদ্ধি নেই,hate,bengali_dataset,0
+aaj ka din bahut acha hai,neutral,hindi_hinglish_dataset,2
+what a dumpster fire of a presentation,offensive,english_dataset,1
+నీ లాంటి నల్లవాళ్ళు అసహ్యం,hate,telugu_dataset,0
+war crimes tribunal convicts former leader,neutral,context_dataset,2
+they deserve to die for being different,hate,context_dataset,0
+morning walk ki velte health ga untundi,neutral,telugu_dataset,2
+তোর রান্না খেয়ে পেট খারাপ হল,offensive,bengali_dataset,1
+education is the key to a better future,neutral,english_dataset,2
+that comedian absolutely destroyed the audience with laughter,neutral,english_dataset,2
+వీళ్ళు మురుగు కాలువ పురుగులు,hate,telugu_dataset,0
+mixed race children are abominations,hate,english_dataset,0
+ये खाना खाकर मर जाऊंगा,offensive,hindi_hinglish_dataset,1
+i wish they would all just disappear from the earth,hate,english_dataset,0
+নতুন কিছু শেখা সবসময় ভালো,neutral,bengali_dataset,2
+burn your doubts and rise from the ashes,neutral,context_dataset,2
+তোদের দেশে ফিরে যা,hate,bengali_dataset,0
+পাগল নাকি তুই,offensive,bengali_dataset,1
+इन लोगों को जिंदा जला देना चाहिए,hate,hindi_hinglish_dataset,0
+auraton ki koi akal nahi hoti,hate,hindi_hinglish_dataset,0
+ఈ వలస వాళ్ళు మన ఉద్యోగాలు దొంగిలిస్తున్నారు,hate,telugu_dataset,0
+people with mental illness should be institutionalized permanently,hate,english_dataset,0
+ముస్లింలు అందరూ దేశద్రోహులు,hate,telugu_dataset,0
+gay people are disgusting and deserve punishment,hate,english_dataset,0
+"death to all of them, wipe them out",hate,context_dataset,0
+my boss is the worst human being alive,offensive,english_dataset,1
+everyone deserves to be treated with respect,neutral,english_dataset,2
+तू बहुत बड़ा बेवकूफ है यार,offensive,hindi_hinglish_dataset,1
+जीवन बहुत सुंदर है,neutral,hindi_hinglish_dataset,2
+ye bihari log hamare city ganda kar rahe hain,hate,hindi_hinglish_dataset,0
+"he killed it with that guitar solo, amazing talent",neutral,english_dataset,2
+nayi book padhke bahut acha laga,neutral,hindi_hinglish_dataset,2
+all of them should be locked up and thrown away the key,hate,english_dataset,0
+i love spending time with my family on weekends,neutral,english_dataset,2
+i want to see every one of them suffer,hate,english_dataset,0
+the crowd went wild when the team scored,neutral,english_dataset,2
+"what a bloodbath of a match, incredible gameplay",neutral,context_dataset,2
+"oh great, another wonderful monday morning",neutral,context_dataset,2
+দলিতদের কোনো অধিকার থাকা উচিত না,hate,bengali_dataset,0
+শিক্ষা সবার অধিকার,neutral,bengali_dataset,2
+milke kaam karne se sab possible hai,neutral,hindi_hinglish_dataset,2
+ee bhiksagallu chachchipothe bagundu,hate,telugu_dataset,0
+she slayed the competition in the debate,neutral,english_dataset,2
+stop wasting everyone's time with your nonsense,offensive,english_dataset,1
+"oh fantastic, the printer is jammed again",neutral,context_dataset,2
+বাগানে নতুন ফুল ফুটেছে,neutral,bengali_dataset,2
+నువ్వు ఒకటంబర్ వేషగాడివి,offensive,telugu_dataset,1
+সমকামীরা পাগল আর অসুস্থ,hate,bengali_dataset,0
+jeevan bahut sundar hai,neutral,hindi_hinglish_dataset,2
+এদের জ্বালিয়ে দেওয়া উচিত,hate,bengali_dataset,0
+die-hard fans showed up to the concert,neutral,context_dataset,2
+ये बिहारी लोग हमारे शहर गंदा कर रहे हैं,hate,hindi_hinglish_dataset,0
+reading about history helps us understand the present,neutral,english_dataset,2
+"teamwork makes the dream work, great collaboration today",neutral,english_dataset,2
+i'm grateful for all the good in my life,neutral,english_dataset,2
+i will kill it on stage tonight with my performance,neutral,english_dataset,2
+"festival ki shopping ho gayi, bahut maza aaya",neutral,hindi_hinglish_dataset,2
+i'm dying to try that new restaurant downtown,neutral,english_dataset,2
+you are a disgrace to telugu culture,hate,telugu_dataset,0
+তোর চেহারা দেখে হাসি পায়,offensive,bengali_dataset,1
+ওকে কিছু আসে না কাজে,offensive,bengali_dataset,1
+our team got slaughtered in the finals,neutral,context_dataset,2
+entha digajarina manishivi nuvvu,offensive,telugu_dataset,1
+"এরা মানুষ না, পশু",hate,bengali_dataset,0
+"এত বোরিং ক্লাস, ঘুম পাচ্ছে",offensive,bengali_dataset,1
+he executed that play perfectly,neutral,context_dataset,2
+she's killing the game with her skills,neutral,context_dataset,2
+"ye movie dekho, bahut inspiring hai",neutral,hindi_hinglish_dataset,2
+saale ko kuch nahi aata kaam,offensive,hindi_hinglish_dataset,1
+chup ho ja gadhe,offensive,hindi_hinglish_dataset,1
+learning a new language opens up so many opportunities,neutral,english_dataset,2
+మీ సంస్కృతి అనాగరికం,hate,telugu_dataset,0
+kya bakwas kar raha hai tu,offensive,hindi_hinglish_dataset,1
+इनको मार डालना चाहिए सबको,hate,hindi_hinglish_dataset,0
+i'm dying of laughter watching this comedy,neutral,context_dataset,2
+the kids at the school fundraiser were so enthusiastic,neutral,english_dataset,2
+what a nightmare of a day,offensive,english_dataset,1
+this is the dumbest thing i've ever heard,offensive,english_dataset,1
+they should be exterminated from this country,hate,english_dataset,0
+তোর জাত নিচু,hate,bengali_dataset,0
+what a waste of space,offensive,english_dataset,1
+the weather today is really beautiful,neutral,english_dataset,2
+i swear this app was made by monkeys,offensive,english_dataset,1
+तुम्हारी जाति नीच है,hate,hindi_hinglish_dataset,0
+బాస్ ఈ రోజు బుర్ర తినేశాడు,offensive,telugu_dataset,1
+kal ka weather bahut acha rahega,neutral,hindi_hinglish_dataset,2
+clearly the best decision ever made,neutral,context_dataset,2
+whoever designed this ui should be fired,offensive,english_dataset,1
+तू तो एक नंबर का ढोंगी है,offensive,hindi_hinglish_dataset,1
+i could punch this computer right now,offensive,english_dataset,1
+"you should die, nobody wants you here",hate,context_dataset,0
+వీళ్ళు సమాజానికి పురుగులు,hate,telugu_dataset,0
+তুই এক নম্বরের ভণ্ড,offensive,bengali_dataset,1
+నీ కులం వాళ్లు అందరూ దొంగలు,hate,telugu_dataset,0
+veellandarini champeyaali,hate,telugu_dataset,0
+you look terrible in that outfit,offensive,english_dataset,1
+"this curry is fire, absolutely delicious",neutral,context_dataset,2
+ee roju vanta chala ruchiga ayindi,neutral,telugu_dataset,2
+kindness costs nothing but means everything,neutral,english_dataset,2
+উৎসবের আমেজে সবাই আনন্দিত,neutral,bengali_dataset,2
+এই গান শুনে কান ফেটে গেল,offensive,bengali_dataset,1
+ये भिखारी लोग मर क्यों नहीं जाते,hate,hindi_hinglish_dataset,0
+"you're so annoying, just go away",offensive,english_dataset,1
+"i hate this weather so much, it's disgusting",offensive,english_dataset,1
+muslims sab deshdrohii hain,hate,hindi_hinglish_dataset,0
+কি বাজে কথা বলছিস,offensive,bengali_dataset,1
+তোদের সম্প্রদায় সমাজের ক্যান্সার,hate,bengali_dataset,0
+you're the definition of incompetence,offensive,english_dataset,1
+"festival shopping ayindi, chala enjoy chesam",neutral,telugu_dataset,2
+i appreciate the diversity in our community,neutral,english_dataset,2
+tumhari community cancer hai society ka,hate,hindi_hinglish_dataset,0
+tu bahut bada bewkoof hai yaar,offensive,hindi_hinglish_dataset,1
+"tum gande log ho, tumhari koi jagah nahi",hate,hindi_hinglish_dataset,0
+nee lanti vallanu desham nundi tarimeyali,hate,telugu_dataset,0
+"wow, what an absolutely brilliant idea.. not",offensive,context_dataset,1
+এই ভিখারিগুলো মরে যায় না কেন,hate,bengali_dataset,0
+coding seekhna bahut fascinating hai,neutral,hindi_hinglish_dataset,2
+this assignment is absolute hell,offensive,english_dataset,1
+destroy your limits and achieve greatness,neutral,context_dataset,2
+coding mein naye concepts seekhna exciting hai,neutral,context_dataset,2
+your taste in music is absolute garbage,offensive,english_dataset,1
+indigenous people are savages who couldn't build civilization,hate,english_dataset,0
+i would kill for a pizza right now,neutral,context_dataset,2
+let's work together to make the world a better place,neutral,english_dataset,2
+पागल है क्या तू पूरा,offensive,hindi_hinglish_dataset,1
+మీ సమాజం సమాజానికి క్యాన్సర్,hate,telugu_dataset,0
+"you're such an idiot, can't believe you said that",offensive,english_dataset,1
+god you're pathetic,offensive,english_dataset,1
+"coding in python nerchukuntunnanu, very interesting",neutral,telugu_dataset,2
+"asian people are all the same, no individuality",hate,english_dataset,0
+your traditions are backward and uncivilized,hate,english_dataset,0
+coding nerchukovadam chala fascinating,neutral,telugu_dataset,2
+you're delusional if you think that's true,offensive,english_dataset,1
+noru moosukov gadidha,offensive,telugu_dataset,1
+em chetta maatladutunnav,offensive,telugu_dataset,1
+we should build walls to keep these vermin out,hate,english_dataset,0
+your people contributed nothing to civilization,hate,english_dataset,0
+ee company lo pani cheyadam himsa,offensive,telugu_dataset,1
+supporting local businesses strengthens our community,neutral,english_dataset,2
+team absolutely demolished the opposition today,neutral,context_dataset,2
+boss ne aaj dimag kha liya,offensive,hindi_hinglish_dataset,1
+आज खाना बहुत स्वादिष्ट बना,neutral,hindi_hinglish_dataset,2
+"you have zero talent, stop embarrassing yourself",offensive,english_dataset,1
+তুই বিরাট বোকা রে,offensive,bengali_dataset,1
+aadavallaku buddhi undadu,hate,telugu_dataset,0
+"nee coding skills zero ra, learn something",offensive,telugu_dataset,1
+fight through the darkness to find the light,neutral,context_dataset,2
+muslims are all potential terrorists,hate,english_dataset,0
+nee lanti nallavallu asahyam,hate,telugu_dataset,0
+"ye gaana sunke pagal ho gaya, kitna acha hai",neutral,context_dataset,2
+ఎంత దిగజారిన మనిషివి నువ్వు,offensive,telugu_dataset,1
+nuvvu pedda buddhileni vadivi,offensive,telugu_dataset,1
+"get rekt noob, you can't beat me",offensive,context_dataset,1
+what a clown show this meeting was,offensive,english_dataset,1
+team ne aaj bahut acha perform kiya,neutral,hindi_hinglish_dataset,2
+the suspense is killing me in this movie,neutral,context_dataset,2
+"what a stupid comment, think before you speak",offensive,english_dataset,1
+nee lanti ugly people ki confidence ekkada nundi vastadi,hate,telugu_dataset,0
+"sure, because that's exactly what i needed today",neutral,context_dataset,2
+your handwriting looks like a chicken walked on paper,offensive,english_dataset,1
+i want to kill you and your family,hate,context_dataset,0
+কি বোকামি এই সিস্টেম,offensive,bengali_dataset,1
+you're nothing but a worthless piece of trash because of your race,hate,english_dataset,0
+your culture is barbaric and primitive,hate,english_dataset,0
+your religion is evil and should be banned,hate,english_dataset,0
+"good morning everyone, have a wonderful day ahead",neutral,english_dataset,2
+kill your ego before it kills your growth,neutral,context_dataset,2
+lgbtq people pagal aur beemar hain,hate,hindi_hinglish_dataset,0
+ee valasa vallu mana jobs dongilistunnaru,hate,telugu_dataset,0
+meditation has completely changed my perspective on life,neutral,english_dataset,2
+poor people are poor because they're lazy and stupid,hate,english_dataset,0
+the customer service here is absolutely terrible,offensive,english_dataset,1
+black people are more prone to crime genetically,hate,english_dataset,0
+ee bhojanam tini chachchipotha,offensive,telugu_dataset,1
+uske pass koi talent nahi hai bilkul,offensive,context_dataset,1
+కలిసి పని చేస్తే అన్నీ సాధ్యమే,neutral,telugu_dataset,2
+সবার সমান সুযোগ পাওয়া উচিত,neutral,bengali_dataset,2
+mee caste vallu eppudu backward untaru,hate,telugu_dataset,0
+నీ కంటే చెత్త ఇంకెవరు లేరు,offensive,telugu_dataset,1
+तुम जैसे काले लोग बदसूरत होते हैं,hate,hindi_hinglish_dataset,0
+the sunset looks absolutely stunning today,neutral,english_dataset,2
+ye log insaan nahi janwar hain,hate,hindi_hinglish_dataset,0
+तेरी शक्ल देखकर हंसी आती है,offensive,hindi_hinglish_dataset,1
+education sabka right hai,neutral,hindi_hinglish_dataset,2
+এই জাতের লোক কোনোদিন উন্নতি করতে পারবে না,hate,bengali_dataset,0
+ఈ భిక్షగాళ్ళు చచ్చిపోతే బాగుండు,hate,telugu_dataset,0
+the sunrise from the mountain top was breathtaking,neutral,english_dataset,2
+ఈ రోజు సూర్యాస్తమయం అద్భుతంగా ఉంది,neutral,telugu_dataset,2
+পরিবারের সাথে সময় কাটানো ভালো লাগে,neutral,bengali_dataset,2
+the park is so peaceful early in the morning,neutral,english_dataset,2
+veellu samajaaniki purugulu,hate,telugu_dataset,0
+বস আজ মাথা খেয়ে নিল,offensive,bengali_dataset,1
+annihilate your excuses and start working,neutral,context_dataset,2
+nee matham vallu andaru ugravadulu,hate,telugu_dataset,0
+ఈ భోజనం తిని చచ్చిపోతాను,offensive,telugu_dataset,1
+mujhe maar do is project se,offensive,context_dataset,1
+"what a boring lecture, professor ki teaching raadu",offensive,telugu_dataset,1
+జీవితం చాలా అందమైనది,neutral,telugu_dataset,2
+art has the power to bring people together,neutral,english_dataset,2
+these people are subhuman and don't deserve rights,hate,english_dataset,0
+వీళ్ళను తగలబెట్టాలి,hate,telugu_dataset,0
+ఏం తెలివి తక్కువ సిస్టం ఇది,offensive,telugu_dataset,1
+your cooking is absolutely disgusting,offensive,english_dataset,1
+"ye film dekhke dimag kharab ho gaya, bakwas",offensive,context_dataset,1
+"that was the most boring lecture ever, professor sucks",offensive,english_dataset,1
+आज का दिन बहुत अच्छा है,neutral,hindi_hinglish_dataset,2
+চা খেতে খেতে বৃষ্টি দেখা ভালো লাগে,neutral,bengali_dataset,2
+that's the ugliest thing i've ever seen,offensive,english_dataset,1
+ये लोग गंदी नाली के कीड़े हैं,hate,hindi_hinglish_dataset,0
+तुम जैसे गंदे लोगों की कोई जगह नहीं,hate,hindi_hinglish_dataset,0
+ক্রিকেট ম্যাচটা খুব উত্তেজনাপূর্ণ ছিল,neutral,bengali_dataset,2
+"এ কি বাজে ডিজাইন, চোখ জ্বলছে",offensive,bengali_dataset,1
+হিন্দুরা সব গোমূত্র পান করে,hate,bengali_dataset,0
+"all women belong in the kitchen, they're useless otherwise",hate,english_dataset,0
+the test was brutal but i think i passed,neutral,english_dataset,2
+the world would be better without your kind,hate,english_dataset,0
+i will kill it on stage tonight,neutral,context_dataset,2
+దళితులకు ఎటువంటి హక్కులు ఉండకూడదు,hate,telugu_dataset,0
+family ke saath time spend karna bahut acha lagta hai,neutral,hindi_hinglish_dataset,2
+পরীক্ষাটা আমাকে মেরে ফেলছে,offensive,bengali_dataset,1
+dalits ko koi rights nahi milne chahiye,hate,hindi_hinglish_dataset,0
+कितना गिरा हुआ इंसान है तू,offensive,hindi_hinglish_dataset,1
+kutumbamtho samayam gadapadam baguntundi,neutral,telugu_dataset,2
+just planted some new flowers in the garden,neutral,english_dataset,2
+nee kulam neecham,hate,telugu_dataset,0
+these refugees are ruining our beautiful country,hate,english_dataset,0
+these nachos are to die for,neutral,context_dataset,2
+people like you deserve to die,hate,english_dataset,0
+"స్వలింగ సంపర్కులు పిచ్చివాళ్ళు, రోగులు",hate,telugu_dataset,0
+కుటుంబంతో సమయం గడపడం బాగుంటుంది,neutral,telugu_dataset,2
+నీ మొహం చూస్తే నవ్వు వస్తుంది,offensive,telugu_dataset,1
+veellanu tagalabettaali,hate,telugu_dataset,0
+kotha pustakam chadivi chala bagundi,neutral,telugu_dataset,2
+"just completed my first marathon, what an achievement",neutral,english_dataset,2
+వీళ్ళందరినీ నాశనం చేయాలి,hate,telugu_dataset,0
+kya chutiyapa hai ye system,offensive,hindi_hinglish_dataset,1
+all [ethnic group] are terrorists and criminals,hate,english_dataset,0
+vidya andari hakku,neutral,telugu_dataset,2
+তোর চেয়ে বাজে আর কেউ নেই,offensive,bengali_dataset,1
+traffic valla tala pagilipotondi,offensive,telugu_dataset,1
+that movie was so trash i want my time back,offensive,english_dataset,1
+the bombing killed dozens of civilians,neutral,context_dataset,2
+పిచ్చా నీకు పూర్తిగా,offensive,telugu_dataset,1
+కొత్త పుస్తకం చదివి చాలా బాగుంది,neutral,telugu_dataset,2
+this new movie has an incredible storyline,neutral,english_dataset,2
+life is too beautiful to waste on negativity,neutral,english_dataset,2
+volunteering at the shelter is incredibly rewarding,neutral,english_dataset,2
+আজ সূর্যাস্ত অসাধারণ দেখাচ্ছে,neutral,bengali_dataset,2
+tum jaise kale log ugly hote hain,hate,hindi_hinglish_dataset,0
+autistic people shouldn't be in regular schools,hate,english_dataset,0
+aaj khana itna acha hai ki mar jaunga,neutral,context_dataset,2
+these prices are killing my budget this month,neutral,english_dataset,2
+তোর মতো কালো লোক কুৎসিত,hate,bengali_dataset,0
